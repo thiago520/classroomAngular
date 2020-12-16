@@ -1,6 +1,10 @@
 # ClientRoom
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.7
+<<<<<<< HEAD
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.7.
+=======
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.7.
+>>>>>>> aebaae798420c0ce5e69c052357092e5c09a9fcc
 
 ## Development server
 
